@@ -1,3 +1,4 @@
+![logo](https://github.com/077Shruti/077Shruti/blob/main/img.png)
 <h1 align="center">Hi 👋, I'm Shruti Chauhan</h1>
 <h3 align="center">A passionate Web Developer From India 🇮🇳</h3>
 <img align="right" alt="coding" width="2000" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif">

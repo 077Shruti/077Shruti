@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Chauhan</h1>
 <h3 align="center">A passionate Web Developer From India 🇮🇳</h3>
-<!-- <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/005e99f3-27d0-4893-b73b-ff489f2f8b5c)"> -->
+<img align="right" alt="coding" width="2000" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=077shruti" alt="077shruti" /></a> </p>
 

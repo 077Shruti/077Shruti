@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/077Shruti/077Shruti/blob/main/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
 <h1 align="center">Hi 👋, I'm Shruti Chauhan</h1>
 
 

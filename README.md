@@ -34,5 +34,3 @@
 
 ## GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=077shruti&show_icons=true&locale=en" alt="077shruti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=077shruti&" alt="077shruti" /></p>
